@@ -1,0 +1,35 @@
+.page-toggler-button {
+    display: inline-block;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+.pagecount {
+    height: 21px;	
+    width: 102px;	
+    color: #7F8FA4;	
+    font-family: "Source Sans Pro";	
+    font-size: 14px;	
+    text-align: center;
+    line-height: 2em;
+    display: inline-block
+}
+.extremebutton{
+    display: inline-block;
+    height: 2.5em;	
+    width: 2.5em;	
+    background: white;
+    border-radius: 4px;
+    text-align: center;
+    border: 1px solid rgba(0,0,0,0.1);
+    margin-left: 15px;
+}
+.endbuttonleft {
+    float: left;
+}
+.endbuttonright {
+    float:right;
+    margin-right: 15px;
+}
+.divider {
+    width: 2px;
+}
